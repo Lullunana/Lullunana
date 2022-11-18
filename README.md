@@ -1,17 +1,27 @@
-### Hi there 👋
+# 프로필 테스트 중입니당✨
+자라고 싶은 새싹🌱 개발자
+---
 
-수정 테스트 중!
-<!--
-**Lullunana/Lullunana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+어떻게 나오는지 확인하는 중!
 
-Here are some ideas to get you started:
+여기에 블라블라 뫄뫄뫄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+경력🔭
+개발 경력은 없지만 앞으로 만들어나갈 예정!!
+
+학력  
+블라블라  
+수료
+
+Language  
+Python
+
+Project👯  
+- 
+
+Career goal
+- To make something everybody want
+
+
+⚡ Hobbies  
+-
