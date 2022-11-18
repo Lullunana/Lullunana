@@ -20,7 +20,7 @@ Project👯
 - 
 
 Career goal
-- To make something everyone want
+- To make something everyone wants
 
 
 ⚡ Hobbies  
